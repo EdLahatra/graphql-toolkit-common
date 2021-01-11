@@ -42,7 +42,7 @@
   "dependencies": {
     "aggregate-error": "3.0.1",
     "camel-case": "4.1.1",
-    "graphql-tools": "5.0.0",
+    "graphql-tools": "https://github.com/DevFullStackJS/graphql-tools.git",
     "lodash": "4.17.15"
   },
   "deprecated": false,
